@@ -18,7 +18,7 @@
 <body>
 
     <h1>Terms of Use</h1>
-    <p class="effective-date">Effective Date: January 16, 2026</p>
+    <p class="effective-date">Last Updated: January 16, 2026</p>
     <p><strong>Developer:</strong> UType AI Team</p>
 
     <div class="summary-box">
