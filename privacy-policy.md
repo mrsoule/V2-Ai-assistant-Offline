@@ -66,7 +66,7 @@
     </div>
 
     <div class="footer">
-    <p>© 2026 Mohamed Ed Dahhani. All rights reserved.</p>
+            <p style="font-size: 0.7rem;">© 2026 Mohamed Ed Dahhani. All rights reserved.</p>
     </div>
 
 </body>
