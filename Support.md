@@ -22,9 +22,9 @@
 </head>
 <body>
 
-    <h1>V2 Ai — Support</h1>
+    <h1>Support</h1>
     
-    <p class="support-intro">Thank you for using <strong>Utype AI Writer</strong>. We’re committed to providing a professional, reliable, and privacy-focused experience. If you need help or have questions, we’re here to assist.</p>
+    <p class="support-intro">Thank you for using <strong>V2</strong>. We’re committed to providing a professional, reliable, and privacy-focused experience. If you need help or have questions, we’re here to assist.</p>
 
     <div class="privacy-banner">
         <strong>🔒 Privacy & Data Security:</strong> V2 AI Writer processes all text locally on your device. No user content is ever sent to external servers, ensuring your professional work remains 100% private.
