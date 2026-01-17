@@ -65,5 +65,9 @@
         <p><strong>Email:</strong> <a href="mailto:mrsoulemedia@gmail.com">mrsoulemedia@gmail.com</a></p>
     </div>
 
+    <div class="footer">
+    <p>© 2026 Mohamed Ed Dahhani. All rights reserved.</p>
+    </div>
+
 </body>
 </html>
