@@ -6,6 +6,7 @@
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #2d3436; max-width: 800px; margin: 0 auto; padding: 40px 20px; }
         h1 { border-bottom: 2px solid #dfe6e9; padding-bottom: 10px; color: #2d3436; font-size: 2.2em; }
         h2 { margin-top: 30px; color: #0984e3; font-size: 1.5em; }
+        p { margin-bottom: 15px; }
         .last-updated { font-style: italic; color: #636e72; margin-bottom: 30px; }
         .privacy-seal { background: #e3f2fd; border-left: 5px solid #0984e3; padding: 20px; border-radius: 4px; margin-bottom: 30px; }
         .privacy-seal strong { color: #0d47a1; }
@@ -13,6 +14,7 @@
         ul { padding-left: 20px; }
         li { margin-bottom: 12px; }
         .footer-contact { background: #f9f9f9; padding: 25px; border-radius: 8px; margin-top: 50px; border: 1px dashed #b2bec3; }
+        .footer { margin-top: 50px; font-size: 0.9em; color: #b2bec3; text-align: center; }
         a { color: #0984e3; text-decoration: none; }
         a:hover { text-decoration: underline; }
     </style>
