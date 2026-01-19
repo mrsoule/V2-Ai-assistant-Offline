@@ -1,1 +1,1 @@
-# V2 Ai assistant Offline
+# V2 Offline Ai Assistant
